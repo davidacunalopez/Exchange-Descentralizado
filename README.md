@@ -68,3 +68,6 @@ Este proyecto es de uso educativo y está bajo la licencia MIT.
 
 ---
 
+
+### Nota
+Para realizar este trabajo se utilizaron herramientas como ChatGPT y Copilot con la finalidad de darle una estructura agrable para el usuario y para aprendizaje
