@@ -1,6 +1,8 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.20;
 
+// Este es un contrato que representara mi exchange
+
 import "@openzeppelin/contracts/token/ERC20/IERC20.sol";
 
 contract SimpleDEX {
